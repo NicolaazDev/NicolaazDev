@@ -35,6 +35,6 @@ Tenho experiência sólida em desenvolvimento de aplicações front-end usando R
 
 ## 📊 Estatísticas do GitHub
 
-![Johan Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolaazDevb&show_icons=true&theme=radical)
+![Johan Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolaazDev&show_icons=true&theme=radical)
 
 Obrigado por visitar meu perfil GitHub! 🙌
