@@ -30,8 +30,8 @@ Tenho experiência sólida em desenvolvimento de aplicações front-end usando R
 ## 📬 Contato
 
 - **Email:** [johanhenrique@example.com](mailto:johanhenrique2k24@gmail.com)
-- **LinkedIn:** [linkedin.com/in/johanhenrique](https://linkedin.com/in/johanhenrique)
-- **Portfólio:** [meusite.com](https://meusite.com)
+- **LinkedIn:** [linkedin.com/in/johanhenrique](https://www.linkedin.com/in/henrique-ramos-43a9a2317/)
+- **Portfólio:** [meusite.com](https://johanhenrique.vercel.app)
 
 ## 📊 Estatísticas do GitHub
 
