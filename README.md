@@ -1,6 +1,6 @@
 # Johan Henrique - Fullstack Developer 🚀
 
-Olá! Eu sou o Johan Henrique, um desenvolvedor fullstack com um leve foco em front-end. Tenho 21 anos e trabalho como freelancer há 4 anos. Minha paixão é criar soluções web inovadoras e eficientes. 
+Olá! Eu sou o Johan Henrique, um desenvolvedor fullstack com um leve foco em front-end. Tenho 21 anos e trabalho como freelancer há 5 anos. Minha paixão é criar soluções web inovadoras e eficientes. 
 Tenho experiência sólida em desenvolvimento de aplicações front-end usando React e styled-components, e também sou proficiente no desenvolvimento back-end com Node.js, Express.js e bancos de dados como MongoDB e MySQL.
 
 ## 🚀 Tecnologias
