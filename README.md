@@ -15,7 +15,7 @@ Tenho experiência sólida em desenvolvimento de aplicações front-end usando R
 
 ### Backend
 - 🟢 Node.js
-- 🚀 Express.js
+- 🚀 Express.js & NestJs
 - 🍃 MongoDB
 - 🐬 MySQL
 - 🔌 REST APIs
