@@ -7,7 +7,7 @@ Tenho experiência sólida em desenvolvimento de aplicações front-end usando R
 
 ### Frontend
 - ⚛️ React & React Native
-- 💅 Styled-components
+- 💅 Tailwind Css
 - 🌐 HTML5
 - 🎨 CSS3
 - 📝 JavaScript & Typescript
