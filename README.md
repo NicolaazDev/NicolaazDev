@@ -3,9 +3,12 @@
 </h1>
 
 <p align="start">
-  Desenvolvedor Full Stack com 7 anos de experiência em desenvolvimento web e mobile.<br/>
-  Especializado em JavaScript/TypeScript, atuo tanto no front-end quanto no back-end,<br/>
-  criando aplicações performáticas, escaláveis e com código limpo.<br/><br/>
+🔸 Desenvolvedor Full Stack com 6 anos de experiência  
+🔸 Especialista em Next.js, NestJS, React, TypeScript, Node.js e bancos SQL/NoSQL  
+🔸 Apaixonado por criar aplicações performáticas, escaláveis e com foco em SEO e UX  
+🔸 Experiência sólida em projetos freelance internacionais e nacionais, com entrega ágil e código limpo  
+🔸 Entusiasta de boas práticas, Clean Architecture e metodologias ágeis (Scrum/Kanban)  
+🔸 Gosto de aprender tecnologias novas e compartilhar conhecimento na comunidade dev  >
 </p>
 
 ## 🔥 Github Streak
