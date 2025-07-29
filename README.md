@@ -3,7 +3,7 @@
 </h1>
 
 <p align="start">
-🔸 Desenvolvedor Full Stack com 6 anos de experiência  
+🔸 Desenvolvedor Full Stack com 6 anos de experiência  \n
 🔸 Especialista em Next.js, NestJS, React, TypeScript, Node.js e bancos SQL/NoSQL  
 🔸 Apaixonado por criar aplicações performáticas, escaláveis e com foco em SEO e UX  
 🔸 Experiência sólida em projetos freelance internacionais e nacionais, com entrega ágil e código limpo  
