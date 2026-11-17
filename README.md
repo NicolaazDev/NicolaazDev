@@ -1,14 +1,12 @@
 <h1 align="start">
- 👨‍💻 Johan Henrique - Full Stack Developer
+ Full Stack Developer with 6 years of experience
 </h1>
 
--  Desenvolvedor Full Stack com 6 anos de experiência
--  Especialista em Next.js, NestJS, React, TypeScript, Node.js e bancos SQL/NoSQL
--  Apaixonado por criar aplicações performáticas, escaláveis e com foco em SEO e UX
--  Experiência sólida em projetos freelance internacionais e nacionais, com entrega ágil e código limpo
--  Entusiasta de boas práticas, Clean Architecture e metodologias ágeis (Scrum/Kanban)
--  Gosto de aprender tecnologias novas e compartilhar conhecimento na comunidade dev
-
+Specialized in Next.js, NestJS, React, TypeScript, Node.js and SQL/NoSQL databases
+Passionate about building performant, scalable applications with a focus on SEO and UX
+Solid experience in international and national freelance projects, with agile delivery and clean code
+Enthusiast of best practices, Clean Architecture and agile methodologies (Scrum/Kanban)
+Enjoys learning new technologies and sharing knowledge in the dev community
   
 ## 🔥 Github Streak
 
